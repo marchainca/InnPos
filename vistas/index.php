@@ -1,6 +1,7 @@
 <?php
  
-  require_once("header.php");
+ //se hace la llamada al archivo header
+  require_once("header.php"); 
 
 ?>
   <!--Contenido-->
@@ -32,6 +33,7 @@
   <!--Fin-Contenido-->
 
 <?php
-
+  
+  //se hace la llamada al archivo footer
   require_once("footer.php");
 ?>
